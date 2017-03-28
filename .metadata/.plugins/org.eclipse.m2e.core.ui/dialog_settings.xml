@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeVersion">
+			<item value="2.16"/>
+			<item value="1.0.5"/>
+			<item value="0.8.2"/>
+			<item value="1.0.2"/>
+		</list>
+		<list key="archetypeGroupId">
+			<item value="org.glassfish.jersey.archetypes"/>
+			<item value="io.dropwizard.archetypes"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="jersey-quickstart-webapp"/>
+			<item value="java-simple"/>
+			<item value="test-project"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/ayushgarg/Documents/workspace/codes/PersonExapmle"/>
+			<item value="/Users/ayushgarg/Documents/workspace/codes/DropWizardSample"/>
+			<item value="/Users/ayushgarg/Documents/workspace/codes/DetectCycleInGraph/src/DetectCycle.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.example.UserBalance"/>
+			<item value="com.example.PersonDrowizard.PersonExapmle"/>
+			<item value="io.dropwizard.dropwizard_core"/>
+			<item value="com.example.testProject.FirstMavenProject"/>
+			<item value="com.example.testProject.Sample"/>
+			<item value="com.example.testProject"/>
+			<item value="com.example.testProject.DropwizardTest"/>
+			<item value="com.example.testProject.DropwizardTestProject"/>
+		</list>
+		<list key="groupId">
+			<item value="com.example"/>
+			<item value="com.example.PersonDrowizard"/>
+			<item value="io.dropwizard"/>
+			<item value="com.example.testProject"/>
+		</list>
+		<list key="artifactId">
+			<item value="UserBalance"/>
+			<item value="PersonExapmle"/>
+			<item value="dropwizard-core"/>
+			<item value="FirstMavenProject"/>
+			<item value="Sample"/>
+			<item value="DropwizardTest"/>
+			<item value="DropwizardTestProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

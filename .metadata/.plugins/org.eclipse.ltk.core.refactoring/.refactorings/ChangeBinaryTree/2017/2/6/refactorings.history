@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ChnageWithLeftTreeSum&apos; to &apos;ChangeWithLeftTreeSum&apos;&#x0A;- Original project: &apos;ChangeBinaryTree&apos;&#x0A;- Original element: &apos;ChnageWithLeftTreeSum&apos;&#x0A;- Renamed element: &apos;ChangeWithLeftTreeSum&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ChnageWithLeftTreeSum&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ChnageWithLeftTreeSum.java[ChnageWithLeftTreeSum" matchStrategy="1" name="ChangeWithLeftTreeSum" qualified="false" references="true" similarDeclarations="false" stamp="1486543705660" textual="false" version="1.0"/>
+</session>
